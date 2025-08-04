@@ -1,6 +1,6 @@
 # 🚀 My LeetCode Journey 
 
-Welcome to my personal repository where I document my journey of solving LeetCode problems using C++. This is a space where I store clean, well-commented solutions for future reference and also to help others who might find these solutions useful.
+Welcome to my personal repository where I document my journey of solving LeetCode problems. This is a space where I store clean, well-commented solutions for future reference and also to help others who might find these solutions useful.
 
 ## 📚 What You'll Find Here
 
@@ -15,6 +15,12 @@ Welcome to my personal repository where I document my journey of solving LeetCod
 2. To help others who are preparing for coding interviews.
 3. To build a habit of writing and maintaining clean code.
 4. To revise concepts and patterns easily later.
+
+## 🛠️ Tools and Language
+
+- Language: **C++**
+- IDE: LeetCode Editor
+- Resources: Striver’s A2Z DSA Sheet & DSA series of Apna College
 
 ## 🌟 How to Use
 
@@ -31,4 +37,6 @@ If you find something useful, consider giving this repo a ⭐!
 
 ## 📌 Note
 
-This repository is not for blindly copying answers. It's a resource to **learn** and **understand**. Try problems yourself first before checking the solutions.
+- This repository is not for blindly copying answers.
+- It's a resource to **learn** and **understand**.
+- These codes are designed to run exclusively on the **Leetcode editor**.
