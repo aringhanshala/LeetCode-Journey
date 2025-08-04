@@ -6,7 +6,9 @@
    Space Complexity : O(1)
 */
 
-// Approach: Moore's voting algorithm
+/* Approach   : Moore's voting algorithm
+   Difficulty : Easy
+*/
 
 class Solution {
 public:
