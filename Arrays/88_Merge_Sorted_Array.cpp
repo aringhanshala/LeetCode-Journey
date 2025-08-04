@@ -6,7 +6,7 @@
    elements that should be merged, and the last n elements are set to 0 and should be ignored. nums2 has a length of n.
 */
 
-/* Time Complexity  : O(n) 
+/* Time Complexity  : O(m+n) 
    Space Complexity : O(1)
 */
 
