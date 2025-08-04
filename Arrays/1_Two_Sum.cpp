@@ -7,7 +7,9 @@
    Space Complexity : O(1)
 */
 
-// Approach: Brute force
+/* Approach   : Brute force
+   Difficulty : Easy
+*/
 
 class Solution {
 public:
