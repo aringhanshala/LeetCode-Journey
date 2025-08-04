@@ -8,7 +8,9 @@
    Space Complexity : O(n^2)
 */
 
-// Approach: Optimal (only approach)
+/* Approach   : Optimal (only approach)
+   Difficulty : Easy
+*/
 
 class Solution {
 public:
